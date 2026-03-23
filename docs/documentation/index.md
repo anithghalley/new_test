@@ -22,6 +22,15 @@ materials organized by topic.
 
 <div class="doc-card" style="background-image: url('https://drive.google.com/thumbnail?id=1lJF64u4UmLNtrHdB5WT4IilpH4-UBSXz&sz=w800');" markdown>
 
+### 🚀 Expectations
+
+A clear expectations and access plan draft for all user and core team member.
+
+[:octicons-arrow-right-24: Read More](expectation.md)
+
+</div>
+
+<div class="doc-card" style="background-image: url('https://drive.google.com/thumbnail?id=1lGzZZEypeHQ6VM1ksoVQjZuw2TQ7mPaG&sz=w800');" markdown>
 
 ### 🚀 Getting Started Guide
 

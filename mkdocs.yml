@@ -149,6 +149,7 @@ nav:
   - Documentation:
       - Overview: documentation/index.md
       - "🚀 Deploy to GitHub Pages": documentation/github-deployment.md
+      - "Expectation and Roles" : documentation/expectation.md
       - Getting Started Guide: documentation/getting-started.md
       - "📝 Blank Template": documentation/template.md
       - "3D Designing": documentation/3d_design.md
