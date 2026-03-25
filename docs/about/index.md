@@ -2,7 +2,7 @@
 title: About Me
 ---
 
-this is a test for a new site.
+this is a test for a new site..
 
 # About Me
 
